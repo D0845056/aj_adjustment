@@ -994,7 +994,7 @@
 /* --------------------------------------------------------------------- top banner area ---------------------------------------------------------------------*/
 /*--------------------------------------------------------------------- layout new css ---------------------------------------------------------------------*/
  .header-top {
-    background:url(../images/banner1.png);
+    background:url(../images/banner1.webp);
      background-size: 100% 100%;
      background-repeat: no-repeat;
      padding-bottom: 90px;
@@ -1145,7 +1145,7 @@ position: absolute;
 content: "";
 width: 1269px;
 height: 1232px;
-background: url(../images/croo.png);
+background: url(../images/croo.webp);
 top: -55px;
 left: -157%;
 right: 40px;
@@ -1182,7 +1182,7 @@ position: absolute;
 content: "";
 width: 1269px;
 height: 1232px;
-background: url(../images/croo1.png);
+background: url(../images/croo1.webp);
 top: -5px;
 left: -80px;
 background-repeat: no-repeat;
